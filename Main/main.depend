@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1655522825 source:c:\users\hihet\desktop\pphw5\tpp2022-hw5\main\cmapunit.cpp
+	"CMapUnit.h"
+	<stdio.h>
+
+1655357400 c:\users\hihet\desktop\pphw5\tpp2022-hw5\main\cmapunit.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1655525516 source:c:\users\hihet\desktop\pphw5\tpp2022-hw5\main\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"Player.h"
+	"WorldMap.h"
+
+1655525516 c:\users\hihet\desktop\pphw5\tpp2022-hw5\main\player.h
+	<string>
+
+1655357400 c:\users\hihet\desktop\pphw5\tpp2022-hw5\main\worldmap.h
+	"CMapUnit.h"
+
+1655525450 source:c:\users\hihet\desktop\pphw5\tpp2022-hw5\main\player.cpp
+	"Player.h"
+
+1655357400 source:c:\users\hihet\desktop\pphw5\tpp2022-hw5\main\worldmap.cpp
+	"WorldMap.h"
+	<stdio.h>
+	<string.h>
+
+1655546545 source:c:\users\hihet\desktop\tpp2022-hw5-master\main\cmapunit.cpp
+	"CMapUnit.h"
+	<stdio.h>
+
+1655546520 c:\users\hihet\desktop\tpp2022-hw5-master\main\cmapunit.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1655547641 source:c:\users\hihet\desktop\tpp2022-hw5-master\main\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"Player.h"
+	"WorldMap.h"
+
+1655537676 c:\users\hihet\desktop\tpp2022-hw5-master\main\player.h
+	<string>
+
+1655537676 c:\users\hihet\desktop\tpp2022-hw5-master\main\worldmap.h
+	"CMapUnit.h"
+
+1655547244 source:c:\users\hihet\desktop\tpp2022-hw5-master\main\player.cpp
+	"Player.h"
+
+1655537676 source:c:\users\hihet\desktop\tpp2022-hw5-master\main\worldmap.cpp
+	"WorldMap.h"
+	<stdio.h>
+	<string.h>
+
