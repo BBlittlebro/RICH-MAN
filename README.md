@@ -1,5 +1,5 @@
 # RICH-MAN
-A desk game in C++, you can download "rich-man.exe" to play.
+A desk game in C++, you can download "RichMini.exe" to play.
 
 CMapUnit control the buildings in the map.
 
